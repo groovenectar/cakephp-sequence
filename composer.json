@@ -1,5 +1,5 @@
 {
-    "name": "admad/cakephp-sequence",
+    "name": "groovenectar/cakephp-sequence",
     "description": "Sequence plugin for CakePHP to maintain ordered list of records",
     "keywords": ["cakephp", "orm", "sequence", "list"],
     "type": "cakephp-plugin",
