@@ -10,7 +10,7 @@
 Install this plugin into your CakePHP application using [composer](http://getcomposer.org):
 
 ```
-composer config repositories.repo-name vcs git@github.com:groovenectar/cakephp-sequence.git && composer require groovenectar/cakephp-sequence:bake-behavior
+composer config repositories.repo-name vcs git@github.com:groovenectar/cakephp-sequence.git && composer require groovenectar/cakephp-sequence:dev-bake-behavior
 ```
 
 Then load the plugin by either running:
